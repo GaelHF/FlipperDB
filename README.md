@@ -1,7 +1,7 @@
-![Logo](https://raw.githubusercontent.com/GaelHF/InfraZero/main/Thumbnail.png?token=GHSAT0AAAAAACRE2UIAW343OCWLKK7YYYDGZRNXA6A)
+![Logo](https://github.com/GaelHF/InfraZero/blob/main/Thumbnail.png?raw=true)
 
-# InfraZero
-Flipper Zero Infrared File Database
+# FlipperDB
+Flipper Zero File Database
 ## Author
 
 - [@GaelHF](https://www.github.com/GaelHF)
