@@ -5,3 +5,6 @@ Flipper Zero File Database
 ## Author
 
 - [@GaelHF](https://www.github.com/GaelHF)
+
+## Contribution
+If you want to add content to FlipperDB, make a Pull Request
